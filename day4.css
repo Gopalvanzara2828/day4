@@ -1,0 +1,54 @@
+body{
+    background-color: bisque;
+}
+#vishal{
+    background-color: blue;
+    border: solid 20px;
+    height: 150px;
+    width: 20%;
+    text-align: center;
+    border-radius: 10px;
+}
+#tejas{
+    background-color: rgb(141, 211, 66);
+    border: solid 20px;
+    width: 20%;
+    height: 150px;
+    margin-left: 260px;
+    padding-right: 50px;
+    text-align: center;
+    border-radius: 10px;
+}
+#hitesh{
+    background-color: rgb(232, 58, 93);
+    border: solid 20px;
+    width: 20%;
+    height: 150px;
+    margin-left: 540px;
+    padding-right: 100px;
+    text-align: center;
+    border-radius: 10px;
+}
+#vishal:hover{
+    color: rgb(18, 103, 103);
+    background-color: aquamarine;
+    border-color: beige;
+    box-shadow: 0 0 15px #ff0000;
+    
+    }
+
+#tejas:hover{
+    color: rgb(116, 38, 212);
+    background-color: rgb(190, 39, 157);
+    border-color: rgb(131, 131, 55);
+    box-shadow: 0 0 15px #00ff00;
+    
+}
+#hitesh:hover{
+    color: rgb(109, 178, 18);
+    background-color: rgb(19, 24, 164);
+    border-color: rgb(36, 208, 185);
+    box-shadow: 0 0 15px #ff00ff;
+    
+}
+
